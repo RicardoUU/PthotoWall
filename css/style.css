@@ -71,7 +71,7 @@ img:nth-child(10){
 }
 .PhotoCont img:hover{
     box-shadow: 0 4px 8px 0 rgba(184, 184, 184, 0.623), 0 6px 20px 0 rgba(180, 180, 180, 0.377);;
-    transform: rotate(0) scale(1.5);
+    transform: rotate(360deg) scale(1.5);
     z-index: 300;
 }
 
